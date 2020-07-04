@@ -1,6 +1,14 @@
-~10 mini projects in machine learning
+# ~10 mini projects in machine learning
 
-## 1. Board Game Review Prediction
+## 1. Introduction to Supervised Learning using Iris data
+
+In this project, I use Logistic Regression, K-Nearest Neighbors algorithm, and the Support Vector Machine algorithm to analyze iris data.
+
+## 2. Introduction to Unsupervised Learning using K-Means Clustering
+
+In this project, I implement the K-Means Clustering algorithm using self-generated data.
+
+## 3. Board Game Review Prediction
 
 Reviews can make or break a product; as a result, many companies take drastic measures to ensure that their product receives good reviews. When it comes to board games, reviews and word-of-mouth are everything. In this project, I use a **linear regression** model as well as a **random forest regressor** model to predict the average review a board game will receive based on characteristics such as minimum and maximum number of players, playing time, complexity, etc.
 
@@ -8,7 +16,7 @@ I clone a GitHub repository that contains the data set I use. This can be accomp
 
 `git clone https://github.com/ThaWeatherman/scrapers.git`
 
-## 2. A Deep Reinforcement Algorithm in an OpenAI Gym Environment
+## 4. A Deep Reinforcement Algorithm in an OpenAI Gym Environment
 
 In this project, I built a deep neural network and used reinforcement learning to solve a cart and pole balancing problem using OpenAI. OpenAI Gym is a tookit for developing and comparing reinforcement learning algorithms that was built by OpenAI, a non-profit artificial intelligence research company founded by Elon Musk and Sam Altman.
 
@@ -32,7 +40,7 @@ The following python libraries are also needed:
 
 Install them using conda or pip.
 
-## 3. Credit Card Fraud Detection
+## 5. Credit Card Fraud Detection
 
 Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project, that is exactly what I did as well. Using a dataset of of nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, I identify transactions with a high probability of being credit card fraud. I build and deploy the following two machine learning algorithms:
 
@@ -43,7 +51,7 @@ Furthermore, using metrics suchs as precision, recall, and F1-scores, I investig
 
 In addition, I explore the use of data visualization techniques common in data science, such as parameter histograms and correlation matrices, to gain a better understanding of the underlying distribution of data in my data set.
 
-## 4.Getting Started With Natural Language Processing in Python
+## 6. Getting Started With Natural Language Processing in Python
 
 Topics covered in this project are:
 
@@ -63,7 +71,7 @@ or
 
 Lastly, in the notebook `movie_review_classification`, I train and test the accuracy of predicting whether a movie review is positive or negative using a Support Vector Classifier.
 
-## 5. Object Recognition
+## 7. Object Recognition
 
 In this project, I deploy a convolutional neural network (CNN) for object recognition. More specifically, I use the All-CNN network published in the 2015 ICLR paper, "Striving For Simplicity: The All Convolutional Net". This paper can be found at the following link:
 
@@ -71,7 +79,7 @@ https://arxiv.org/pdf/1412.6806.pdf
 
 This convolutional neural network obtained state-of-the-art performance at object recognition on the CIFAR-10 image dataset in 2015. I build this model using Keras, a high-level neural network application programming interface (API) that supports both Theano and Tensorflow backends. Either backend can be used; however, I will be using Theano.
 
-In this project,I do the following:
+In this project, I do the following:
 
 - Import datasets from Keras
 - Use one-hot vectors for categorical labels

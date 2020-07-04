@@ -106,3 +106,12 @@ During this project, I do the following:
 - Convert between the RGB, BGR, and YCrCb color spaces,
 - Build deep neural networks in Keras,
 - Deploy and evaluate the SRCNN network
+
+## 9. Natural Language Processing for Text Classification with NLTK and Scikit-learn
+
+In this project, I explore different ways to improve text classification results. I use the following to text spam text messages:
+
+- Regular Expressions
+- Feature Engineering
+- Multiple scikit-learn Classifiers
+- Ensemble Methods

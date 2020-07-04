@@ -126,3 +126,15 @@ In this project, I do the following:
 - Deploy K-means clustering algorithms
 - Use common metrics to evaluate cluster performance
 - Visualize high-dimensional cluster centroids
+
+## 11. Data Compression and Visualization using Principle Component Analysis (PCA)
+
+This project focuses on mapping high dimensional data to a lower dimensional space, a necessary step for projects that utilize data compression or data visualizations. As the ethical discussions surrounding AI continue to grow, scientists and businesses alike are using visualizations of high dimensional data to explain results.
+
+During this project, I perform K-Means clustering on the well known Iris data set, which contains 3 classes of 50 instances each, where each class refers to a type of iris plant. To visualize the clusters, I use principle component analysis (PCA) to reduce the number of features in the dataset.
+
+I do the following:
+
+- The KMeans Clustering Elbow Method
+- Principle Component Analysis with Scikit-Learn
+- Meshgrid Visualizations for PCA-reduced Data

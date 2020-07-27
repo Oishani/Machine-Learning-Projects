@@ -109,14 +109,14 @@ During this project, I do the following:
 
 ## 9. Natural Language Processing for Text Classification with NLTK and Scikit-learn
 
-In this project, I explore different ways to improve text classification results. I use the following to text spam text messages:
+In this project, I explore different ways to improve text classification results. I use the following to detect spam text messages:
 
 - Regular Expressions
 - Feature Engineering
 - Multiple scikit-learn Classifiers
 - Ensemble Methods
 
-## 10. K Means Clustering for Imagery Analysis
+## 10. K-Means Clustering for Imagery Analysis
 
 In this project, I use a K-means algorithm to perform image classification. Clustering isn't limited to the consumer information and population sciences, it can be used for imagery analysis as well. Leveraging Scikit-learn and the MNIST dataset, I investigate the use of K-means clustering for computer vision.
 
